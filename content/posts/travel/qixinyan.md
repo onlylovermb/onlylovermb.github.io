@@ -14,7 +14,7 @@ images: []
 tags: ["七星岩"]
 categories: ["游记"]
 featuredImage: "/images/travel/qixingyan/IMG_20210403_172103.jpg"
-featuredImagePreview: "/images/travel/qixingyan/IMG_20210403_172046m.jpg"
+featuredImagePreview: "/images/travel/qixingyan/IMG_20210403_172046x.jpg"
 ---
 
 ## 2021.04.04 肇庆 七星岩
